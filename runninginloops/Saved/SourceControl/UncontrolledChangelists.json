@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/IT/5T2C0S74WOPRED6KLKXB2Y.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/Input/Actions/IA_LeftLeg.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/Input/Actions/IA_RightLeg.uasset",
+				"C:/Users/evram/Documents/GitHub/run-run-run/runninginloops/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
